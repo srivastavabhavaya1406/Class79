@@ -1,0 +1,25 @@
+input{
+    margin: 10px;
+}
+    
+#sort{
+    display: none;
+}
+h2 {
+    background-color: aqua;
+color:black;
+}
+#submit{
+    background-color: blue;
+    color: azure;
+}
+#sort{
+    background-color: #29a63c;
+    color: aliceblue;
+}
+body{
+    background-color: aqua;
+}
+div{
+    font-size: large;
+}
